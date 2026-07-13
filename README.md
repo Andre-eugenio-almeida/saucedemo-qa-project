@@ -186,18 +186,24 @@ Release
 
 # 📚 Documentação
 
-A documentação do projeto está organizada nas seguintes categorias:
+# 📚 Documentação
+
+A documentação do projeto está organizada conforme abaixo:
 
 | Documento | Descrição |
 |------------|-----------|
-| Requirements | Especificação dos requisitos |
-| Test Plan | Planejamento dos testes |
-| Test Strategy | Estratégia de testes |
-| Test Cases | Casos de teste |
-| Execution Report | Relatório de execução |
-| Bug Reports | Registro dos defeitos encontrados |
-| Evidence | Evidências da execução |
-
+| [Requirements](docs/requirements.md) | Especificação dos requisitos do sistema. |
+| [Test Plan](docs/test-plan.md) | Planejamento das atividades de teste. |
+| [Test Strategy](docs/test-strategy.md) | Estratégia adotada para execução dos testes. |
+| [Login Test Cases](test-cases/login.md) | Casos de teste da funcionalidade de Login. |
+| [Products Test Cases](test-cases/products.md) | Casos de teste da página de Produtos. |
+| [Cart Test Cases](test-cases/cart.md) | Casos de teste do Carrinho. |
+| [Checkout Test Cases](test-cases/checkout.md) | Casos de teste do Checkout. |
+| [Menu Test Cases](test-cases/menu.md) | Casos de teste do Menu. |
+| [Logout Test Cases](test-cases/logout.md) | Casos de teste do Logout. |
+| [Execution Report](manual-tests/execution-report.md) | Relatório da execução dos testes. |
+| [Bug Reports](bug-reports/) | Registro dos defeitos encontrados. |
+| [Evidence](evidence/) | Evidências (prints e vídeos) dos testes executados. |
 ---
 
 # 📈 Roadmap
